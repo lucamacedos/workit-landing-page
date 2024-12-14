@@ -1,0 +1,15 @@
+:root {
+    /* COLORS */
+
+    --green: #44FFA1;
+
+    --purple-900: #24053E;
+    --purple-500: #584D62;
+    --purple-100: #FCF8FF;
+
+    --white: #FFFFFF;
+}
+
+body {
+    font-family: "Manrope", sans-serif;
+}
